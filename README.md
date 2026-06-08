@@ -19,7 +19,7 @@ Computer Science student at the **Holon Institute of Technology**, working mainl
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 
 
