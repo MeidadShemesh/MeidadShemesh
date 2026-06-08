@@ -1,4 +1,4 @@
-# Hi, I'm Meidad 👋
+# Hi, I'm Meidad 
 
 Computer Science student at the **Holon Institute of Technology**, working mainly in **C / C++** and moving toward backend and software engineering. I like building things that actually run, from a game with its own decision-making AI to a discrete-event simulation of a 911 dispatch center.
 
@@ -6,11 +6,11 @@ Computer Science student at the **Holon Institute of Technology**, working mainl
 
 ## About me
 
-- 🎓 First-year **Computer Science** student @ Holon Institute of Technology
-- 💻 Strongest in **C / C++ (OOP)** — currently learning **C#** and building toward **backend / software development**
-- 🛡️ **IDF Air Force veteran** — worked on cryptographic / secure-communications systems · active security clearance
-- 🧩 Enjoy systems-level problems, clean code, and breaking hard tasks into small, manageable steps
-- 📍 Based in Israel · open to **student / internship** roles in software engineering
+-  First-year **Computer Science** student @ Holon Institute of Technology
+-  Strongest in **C / C++ (OOP)** — currently learning **C#** and building toward **backend / software development**
+-  **IDF Air Force veteran** — worked on cryptographic / secure-communications systems · active security clearance
+-  Enjoy systems-level problems, clean code, and breaking hard tasks into small, manageable steps
+-  Based in Israel · open to **student / internship** roles in software engineering
 
 ---
 
