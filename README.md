@@ -8,7 +8,7 @@ Computer Science student at the **Holon Institute of Technology**, working mainl
 
 -  First-year **Computer Science** student @ Holon Institute of Technology
 -  Strongest in **C / C++ (OOP)** — currently learning **C#** and building toward **backend / software development**
--  **IDF Air Force veteran** — worked on cryptographic / secure-communications systems · active security clearance
+-  **IDF Air Force veteran** — worked on cryptographic / secure-communications systems
 -  Enjoy systems-level problems, clean code, and breaking hard tasks into small, manageable steps
 -  Based in Israel · open to **student / internship** roles in software engineering
 
