@@ -31,6 +31,7 @@ Computer Science student at the **Holon Institute of Technology**, working mainl
 
 - **[Connect-4](https://github.com/MeidadShemesh/Connect-4)** — Terminal Connect Four in C with a custom one-move look-ahead AI (win detection + threat blocking), three difficulty levels, and persistent stats. _Graded 100/100._
 - **[911 Emergency Dispatch Simulation](https://github.com/MeidadShemesh/911-simulation)** — Discrete-event simulation of a 911 dispatch center in C, modeling call arrivals, dispatcher assignment, and field-unit deployment with priority queuing — built on linked lists and a dynamic 2D matrix, with utilization and queue statistics.
+-  **[NetMap](https://github.com/MeidadShemesh/NetMap)** — C# WinForms network device manager built on a polymorphic class hierarchy (abstract base → Computer → Laptop / Server, plus Router), with a drag-and-drop GDI+ canvas, full CRUD, event-driven UI, and save/load via serialization. OOP course final project.
 
 _More on the way as I build out backend and systems projects._
 
